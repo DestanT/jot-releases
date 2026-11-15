@@ -1,0 +1,7 @@
+- **Capture several tasks at once.** Paste one task per line or press ⌥Return to start a new line. ⇧Return saves and keeps Quick capture open; ⌘Return saves and opens the destination note. Jot suggests tags and notes as you type and keeps your draft if you close the panel.
+- **Manage dock cards from the sidebar.** The new Docked and Pinned groups let you view, reorder, pin and return cards. Choose whether new spaces go at the top or bottom in Settings › Dock.
+- **Pinned cards fit their tasks.** Cards adjust their height as tasks come and go. Drag an edge or corner to resize, or double-click the bottom edge to fit the card again.
+- **New options for connected agents.** Ask an agent to pin a card in a screen corner or beside another card. A separate permission in Settings › Agents lets agents move or delete tasks from today’s daily note. It’s off by default.
+- **Shortcuts and the Dock icon.** Turn off either global shortcut or restore its default in Settings › Keyboard. In Settings › General, you can hide Jot’s macOS Dock icon when its windows are closed. Jot stays available in the menu bar.
+- **A welcome tour for new users.** Connect or create a vault, explore filters with sample tasks, and try Quick capture and the dock.
+- **Faster search and smaller fixes.** Search is faster in large vaults, and pinned cards with long lists open faster. Renaming a space now updates its heading in the note.

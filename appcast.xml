@@ -3,6 +3,25 @@
     <channel>
         <title>Jot</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Sun, 15 Nov 2026 22:19:19 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Capture several tasks at once.** Paste one task per line or press ⌥Return to start a new line. ⇧Return saves and keeps Quick capture open; ⌘Return saves and opens the destination note. Jot suggests tags and notes as you type and keeps your draft if you close the panel.
+- **Manage dock cards from the sidebar.** The new Docked and Pinned groups let you view, reorder, pin and return cards. Choose whether new spaces go at the top or bottom in Settings › Dock.
+- **Pinned cards fit their tasks.** Cards adjust their height as tasks come and go. Drag an edge or corner to resize, or double-click the bottom edge to fit the card again.
+- **New options for connected agents.** Ask an agent to pin a card in a screen corner or beside another card. A separate permission in Settings › Agents lets agents move or delete tasks from today’s daily note. It’s off by default.
+- **Shortcuts and the Dock icon.** Turn off either global shortcut or restore its default in Settings › Keyboard. In Settings › General, you can hide Jot’s macOS Dock icon when its windows are closed. Jot stays available in the menu bar.
+- **A welcome tour for new users.** Connect or create a vault, explore filters with sample tasks, and try Quick capture and the dock.
+- **Faster search and smaller fixes.** Search is faster in large vaults, and pinned cards with long lists open faster. Renaming a space now updates its heading in the note.
+]]></description>
+            <enclosure url="https://destant.github.io/jot-releases/Jot-0.4.0.zip" length="11915302" type="application/octet-stream" sparkle:edSignature="aoeUl72NNVEeXWWI4xiJBTTDXu3hqhem1NkKGk3mGjs1Fjc0ih+lG5MZfs7tccE2k7nscqrQLiKMXsbzDeYIAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://destant.github.io/jot-releases/Jot4-3.delta" sparkle:deltaFrom="3" length="4918170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G2SYmdxA9U6lzThkpIdoZciY+9vqsdJoExuCW6eEz5417bMWXbCWr8uJ3+umew3NqfvwNECVBJ+WcvqCIs6UBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Fri, 13 Nov 2026 00:36:20 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
